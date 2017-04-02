@@ -3,7 +3,7 @@ Appendix X: NaN mode
 
 Due to overwhelming demand, we describe an optional *NaN mode* which some
 implementers may choose to include.  Using *NaN mode* comes with risks and
-abandons programming saftey and the comfort of mathematical rigor.  Only
+abandons programming safety and the comfort of mathematical rigor.  Only
 numerical wizards who are comfortable with flying fast and loose with safety,
 and losing precious computational time from NaN values spilling out of their
 memory buckets should consider using this mode.
